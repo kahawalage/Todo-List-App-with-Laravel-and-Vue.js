@@ -1,6 +1,6 @@
 
 # Todo List App with Laravel and Vue.js
-=======
+
 ## Project setup
 ```
 npm install
