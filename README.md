@@ -3,7 +3,7 @@
 
 ## Run App
 
-### Compiles and hot-reloads for development
+### Compiles and Run Server
 ```
 npm run serve
 ```
