@@ -1,8 +1,6 @@
 
 # Todo List App with Laravel and Vue.js
 =======
-# vue-crash-2021
-
 ## Project setup
 ```
 npm install
