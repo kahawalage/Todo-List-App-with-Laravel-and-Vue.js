@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Todo-List-App-with-Laravel-and-Vue.js
+
+# Todo List App with Laravel and Vue.js
 =======
 # vue-crash-2021
 
@@ -11,6 +11,11 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+```
+
+### Run fake Json Server for backend
+```
+npm run backend
 ```
 
 ### Compiles and minifies for production
